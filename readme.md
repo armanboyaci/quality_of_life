@@ -1,5 +1,5 @@
 
-> # How much the macro-economic indicators of a country are useful to predict the quality of life in it?
+> # How much the macro-economic indicators of a country are useful to predict the quality of life in that country?
 
 ![urban](https://cdn.pixabay.com/photo/2014/09/07/21/52/urban-438393_1280.jpg)
 
@@ -13,4 +13,3 @@ To get the predictions for the test dataset, simply run the following code:
 
 ```
 code/python execute.py
-```
